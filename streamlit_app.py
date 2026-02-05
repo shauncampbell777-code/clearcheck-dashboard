@@ -97,7 +97,7 @@ tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
     "Blocks / Sessions",
     "Time Patterns",
     "High-Risk Fast Approvals",
-    "Policy Change (Arnold)"
+    "Policy Change"
 ])
 
 # ---------------------------
