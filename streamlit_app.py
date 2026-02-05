@@ -374,7 +374,7 @@ with tab5:
 # TAB 6: Policy change (Arnold)
 # ---------------------------
 with tab6:
-    st.subheader("Policy Change Behavior — Arnold")
+    st.subheader("Policy Change Behavior")
     st.caption("Cutoff date: June 1, 2020 (payout reduced from $50 to $17)")
     cutoff = pd.Timestamp("2020-06-01")
 
